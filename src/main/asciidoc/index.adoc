@@ -1,0 +1,10 @@
+= Spring REST Docs issue
+
+Create a new message:
+include::{snippets}/home-message/http-request.adoc[]
+
+The Request body contains the following fields:
+
+include::{snippets}/home-message/request-fields.adoc[]
+
+
